@@ -22,7 +22,7 @@
 body {
   font-family: "gilroy-medium";
   background-color: #0b1d26;
-  background-image: url("../img/BG/BG.jpg");
+  background-image: url("./../img/BG/BG.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
   color: #fff;
