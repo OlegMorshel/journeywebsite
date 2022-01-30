@@ -9,9 +9,10 @@ I think that this web site somebody can use for their Travel Company.
 ```
 
 ###In this project I use:
-**HTML 5*
-**CSS 3*
-**JS8*
+
+* *HTML 5*
+* *CSS 3*
+* *JS*
 
 I remember that using changing class in JS was a problem then.  But I some times later I do it with out problems.
 
