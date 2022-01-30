@@ -8,7 +8,7 @@ I want to practise in creating web sites using Adaptive layout.
 I think that this web site somebody can use for their Travel Company.
 ```
 
-###In this project I use:
+### In this project I use:
 
 * *HTML 5*
 * *CSS 3*
