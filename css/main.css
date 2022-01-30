@@ -1,22 +1,22 @@
 @font-face {
   font-family: "gilroy-bold";
-  src: url("/fonts/Gilroy/gilroy-bold.ttf");
+  src: url("../fonts/Gilroy/gilroy-bold.ttf");
 }
 @font-face {
   font-family: "gilroy-extrabold";
-  src: url("/fonts/Gilroy/gilroy-extrabold.ttf");
+  src: url("../fonts/Gilroy/gilroy-extrabold.ttf");
 }
 @font-face {
   font-family: "gilroy-medium";
-  src: url("/fonts/Gilroy/gilroy-medium.ttf");
+  src: url("../fonts/Gilroy/gilroy-medium.ttf");
 }
 @font-face {
   font-family: "PlayfairDisplay-Bold";
-  src: url("/fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf");
+  src: url("../fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf");
 }
 @font-face {
   font-family: "PlayfairDisplay-SemiBold";
-  src: url("/fonts/PlayfairDisplay/PlayfairDisplay-SemiBold.ttf");
+  src: url("../fonts/PlayfairDisplay/PlayfairDisplay-SemiBold.ttf");
 }
 
 body {
@@ -158,7 +158,7 @@ img {
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
-  background-image: url("/img/icons/account_circle_24px.svg");
+  background-image: url("../img/icons/account_circle_24px.svg");
   block-size: contain;
 }
 
@@ -333,7 +333,7 @@ img {
   transform: translateY(-50%);
   width: 16px;
   height: 24px;
-  background-image: url("/img/icons/arrow-down.svg");
+  background-image: url("../img/icons/arrow-down.svg");
 }
 
 /* ARTICLE */
@@ -448,7 +448,7 @@ img {
   transform: translateY(-50%);
   height: 16px;
   width: 24px;
-  background-image: url("/img/icons/arrow-right.svg");
+  background-image: url("../img/icons/arrow-right.svg");
 }
 
 .artical-img img {
