@@ -16,4 +16,6 @@ I think that this web site somebody can use for their Travel Company.
 
 I remember that using changing class in JS was a problem then.  But I some times later I do it with out problems.
 
-For loadimg the project I should only open this [link](https://olegmorshel.github.io/journeywebsite/) and enjoy my creation.
+For loadimg the project you should only open this [link](https://olegmorshel.github.io/journeywebsite/) and enjoy my creation.
+
+![image](https://github.com/OlegMorshel/journeywebsite/blob/master/img/JourneyWebSite.png)
