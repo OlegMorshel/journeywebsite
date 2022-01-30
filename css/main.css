@@ -22,7 +22,11 @@
 body {
   font-family: "gilroy-medium";
   background-color: #0b1d26;
+<<<<<<< HEAD
   background-image: url("./../img/BG/BG.jpg");
+=======
+  background-image: url("../img/BG/BG.jpg");
+>>>>>>> c8ca3e4de8f6c784298cf9a3b5bee55927111a01
   background-size: 100% auto;
   background-repeat: no-repeat;
   color: #fff;
